@@ -16,4 +16,4 @@ You can add video for team member & also different type of layouts.
 ✅ Hover Animation <br>
 ✅ Hover Transition <br>
 
-Demos: https://customizabletm.jawad-developer.com/
+Demos: https://customizabletm.jawaddeveloper.com/
