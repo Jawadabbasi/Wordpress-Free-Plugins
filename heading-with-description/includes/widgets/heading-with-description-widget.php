@@ -15,7 +15,7 @@ class heading_with_description_widget extends \Elementor\Widget_Base{
     }
    
     public function get_custom_help_url(){
-        return 'https://jawad-developer.com/';
+        
     }
 
     public function get_categories(){
