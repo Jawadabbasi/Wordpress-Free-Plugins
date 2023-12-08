@@ -4,7 +4,6 @@
  * Plugin Name: Heading With Description Elementor Widget
  * Description: New Elementor Widget
  * Author: Muhammad Jawad Abbasi
- * Author URI: https://jawad-developer.com/
  * Version: 1.0
  * Text Domain: heading-with-description
 
