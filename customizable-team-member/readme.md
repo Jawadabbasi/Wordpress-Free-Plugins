@@ -15,5 +15,3 @@ You can add video for team member & also different type of layouts.
 ✅ Text Stroke <br>
 ✅ Hover Animation <br>
 ✅ Hover Transition <br>
-
-Demos: https://customizabletm.jawaddeveloper.com/
