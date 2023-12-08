@@ -13,10 +13,6 @@ class heading_with_description_widget extends \Elementor\Widget_Base{
     public function get_icon(){
      return 'eicon-text';
     }
-   
-    public function get_custom_help_url(){
-        
-    }
 
     public function get_categories(){
         return ['basic'];
