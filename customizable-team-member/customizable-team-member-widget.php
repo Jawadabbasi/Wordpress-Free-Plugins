@@ -2,10 +2,9 @@
 
 /*
  * Plugin Name: Customizable Team Member Elementor Widget
- * Plugin URI: https://customizabletm.jawad-developer.com/
+ * Plugin URI: https://customizabletm.jawaddeveloper.com/
  * Description: You can add video for team member & also different type of layouts.
  * Author: Muhammad Jawad Abbasi
- * Author URI: https://jawad-developer.com/
  * Version: 1.0
  * Text Domain: customizable-team-member
  
